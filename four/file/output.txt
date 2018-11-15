@@ -1,0 +1,4 @@
+---------node write stream write begin---------
+the thing  study node before vue is very smart 
+node is build over javascript v8 
+---------结束-------
