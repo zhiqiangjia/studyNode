@@ -13,7 +13,6 @@ var
             console.log('static root dir: ' + root);
 
            var server = http.createServer(function(request, response){
-
                 // url获取
                 var pathname = url.parse(request.url).pathname;
                 var filepath = path.join(root, pathname);
